@@ -23,3 +23,7 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Hosting on GitHub Pages
+You can deploy your react application using github pages
+This project itself is hosted the same way, see if it helps else you can always contact.
