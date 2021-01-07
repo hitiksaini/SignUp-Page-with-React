@@ -1,4 +1,4 @@
-## Building Forms in ReactJS
+## Building and Handling Forms in ReactJS
 Handling forms is about how you handle the data when it changes value or gets submitted.
 #### `In HTML, form data is usually handled by the DOM.`
 #### `In React, form data is usually handled by the components.`
